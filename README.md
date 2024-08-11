@@ -1,3 +1,4 @@
+# About me
 Hello! My name is **Sergio**. I’m a technical designer and gameplay programmer and I am here on GitHub sharing code!
 
 I've mainly worked with `Unity` and `C#`, but I also have experience working with `Unreal`, `C` or `JavaScript`.
